@@ -1,0 +1,14 @@
+C:\Users\egord\RiderProjects\lab16\lab16\bin\Debug\lab16.exe.config
+C:\Users\egord\RiderProjects\lab16\lab16\bin\Debug\lab16.exe
+C:\Users\egord\RiderProjects\lab16\lab16\bin\Debug\lab16.pdb
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.csproj.AssemblyReference.cache
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.csproj.SuggestedBindingRedirects.cache
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.Properties.Resources.resources
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.csproj.GenerateResource.cache
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.csproj.CoreCompileInputs.cache
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.exe
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.pdb
+C:\Users\egord\RiderProjects\lab16\lab16\bin\Debug\ZedGraph.dll
+C:\Users\egord\RiderProjects\lab16\lab16\bin\Debug\ZedGraph.Web.dll
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\lab16.csproj.CopyComplete
+C:\Users\egord\RiderProjects\lab16\lab16\obj\Debug\Construction_16.Form1.resources
